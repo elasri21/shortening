@@ -1,0 +1,40 @@
+/*global styles*/
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+ul {
+    list-style: none;
+}
+
+a {
+    text-decoration: none;
+  }
+  
+body {
+font-size: $body-size;
+font-family: $family;
+}
+  
+button, input {
+border: none;
+background: none;
+outline: none;
+cursor: pointer;
+transition: .3s linear;
+}
+
+.container {
+    @media (min-width: 1200px) {
+        margin: 0 100px !important;
+    }
+    @media (min-width: 922px) and (max-width: 1199px) {
+        margin: 0 70px !important;
+    }
+    @media (min-width: 768px) and (max-width: 921px) {
+        margin: 0 50px !important;
+    }
+    margin: 0 30px;
+}
