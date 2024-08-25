@@ -43,8 +43,8 @@ Then crop/optimize/edit your image however you like, add it to your project, and
 
 ### Links
 
-- Solution URL: [click here](https://your-solution-url.com)
-- Live Site URL: [click here](https://your-live-site-url.com)
+- Solution URL: [click here](https://github.com/elasri21/shortening)
+- Live Site URL: [click here](https://elasri21.github.io/shortening/)
 
 ## My process
 
